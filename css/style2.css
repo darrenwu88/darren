@@ -1,4 +1,4 @@
-body {font-family: Arial, Courier Prime, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;
+body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;
 background: #dbf3fa; /* Old browsers */
 background: -moz-linear-gradient(-45deg,  #dbf3fa 0%, #dbf3fa 50%, #b7e9f7 50%, #b7e9f7 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#dbf3fa), color-stop(50%,#dbf3fa), color-stop(50%,#b7e9f7), color-stop(100%,#b7e9f7)); /* Chrome,Safari4+ */
@@ -42,7 +42,7 @@ article::after {
 } */
 hr {border-bottom: 3px solid #0068FF;}
 
-.meta {text-transform: lowercase; font-family: Arial, Courier Prime, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
+.meta {text-transform: lowercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
 .meta a:hover {color: #333;}
 
 .inline-list {list-style: none; margin: 0; padding: 0;}
